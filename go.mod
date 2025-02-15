@@ -1,4 +1,4 @@
-module github.com/pressly/goose/v4
+module github.com/BorzdeG/pressly-goose/v4
 
 go 1.22.0
 
