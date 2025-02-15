@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pressly/goose/v4"
+	"github.com/BorzdeG/pressly-goose/v4"
 	_ "modernc.org/sqlite"
 )
 

@@ -3,7 +3,7 @@ package goose
 import (
 	"database/sql"
 	"fmt"
-	gooseSql "github.com/pressly/goose/v4/internal/sql"
+	gooseSql "github.com/BorzdeG/pressly-goose/v4/internal/sql"
 )
 
 type DBTxConn = gooseSql.DBTxConn

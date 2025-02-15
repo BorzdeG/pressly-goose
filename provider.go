@@ -5,16 +5,16 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/pressly/goose/v4/migration"
+	"github.com/BorzdeG/pressly-goose/v4/migration"
 	"io/fs"
 	"math"
 	"strconv"
 	"strings"
 	"sync"
 
-	"github.com/pressly/goose/v4/internal/dialectstore"
-	"github.com/pressly/goose/v4/internal/gooseutil"
-	"github.com/pressly/goose/v4/internal/sqlparser"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialectstore"
+	"github.com/BorzdeG/pressly-goose/v4/internal/gooseutil"
+	"github.com/BorzdeG/pressly-goose/v4/internal/sqlparser"
 	"go.uber.org/multierr"
 )
 

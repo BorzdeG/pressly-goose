@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/pressly/goose/v4"
+	"github.com/BorzdeG/pressly-goose/v4"
 )
 
 func init() {

@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pressly/goose/v4"
+	"github.com/BorzdeG/pressly-goose/v4"
 	"github.com/stretchr/testify/require"
 
-	_ "github.com/pressly/goose/v4/tests/gomigrations/success/testdata"
+	_ "github.com/BorzdeG/pressly-goose/v4/tests/gomigrations/success/testdata"
 	_ "modernc.org/sqlite"
 )
 

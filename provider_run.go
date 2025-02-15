@@ -5,13 +5,13 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/pressly/goose/v4/migration"
+	"github.com/BorzdeG/pressly-goose/v4/migration"
 	"io/fs"
 	"runtime/debug"
 	"strings"
 	"time"
 
-	"github.com/pressly/goose/v4/internal/sqlparser"
+	"github.com/BorzdeG/pressly-goose/v4/internal/sqlparser"
 	"github.com/sethvargo/go-retry"
 	"go.uber.org/multierr"
 )

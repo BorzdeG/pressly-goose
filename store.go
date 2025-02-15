@@ -13,7 +13,7 @@
 // goose does not support.
 package goose
 
-import "github.com/pressly/goose/v4/internal/dialectstore"
+import "github.com/BorzdeG/pressly-goose/v4/internal/dialectstore"
 
 var (
 	store dialectstore.Store

@@ -1,9 +1,9 @@
 package dialectquery_test
 
 import (
-	"github.com/pressly/goose/v4"
-	"github.com/pressly/goose/v4/internal/dialect"
-	"github.com/pressly/goose/v4/internal/dialectquery"
+	"github.com/BorzdeG/pressly-goose/v4"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialect"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialectquery"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/pressly/goose/v4/migration"
+	"github.com/BorzdeG/pressly-goose/v4/migration"
 	"go.uber.org/multierr"
 	"io/fs"
 	"math"

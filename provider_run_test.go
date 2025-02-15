@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/pressly/goose/v4/internal/dialect"
-	"github.com/pressly/goose/v4/migration"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialect"
+	"github.com/BorzdeG/pressly-goose/v4/migration"
 	"math"
 	"math/rand"
 	"os"
@@ -16,7 +16,7 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"github.com/pressly/goose/v4"
+	"github.com/BorzdeG/pressly-goose/v4"
 	"github.com/stretchr/testify/require"
 )
 

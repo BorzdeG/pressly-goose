@@ -3,9 +3,9 @@ package goose
 import (
 	"errors"
 	"fmt"
-	"github.com/pressly/goose/v4/internal/dialectstore"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialectstore"
 
-	"github.com/pressly/goose/v4/lock"
+	"github.com/BorzdeG/pressly-goose/v4/lock"
 )
 
 const (

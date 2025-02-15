@@ -1,6 +1,6 @@
 package dialectquery
 
-import "github.com/pressly/goose/v4/internal/dialect"
+import "github.com/BorzdeG/pressly-goose/v4/internal/dialect"
 
 type Turso struct {
 	Sqlite3
