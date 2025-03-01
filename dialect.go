@@ -1,7 +1,6 @@
 package goose
 
 import (
-	"fmt"
 	"github.com/BorzdeG/pressly-goose/v4/internal/dialect"
 )
 

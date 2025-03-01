@@ -1,8 +1,8 @@
 package dialectquery
 
 import (
-	"fmt"
 	"github.com/BorzdeG/pressly-goose/v4/internal/dialect"
+	"github.com/pkg/errors"
 	"strings"
 )
 

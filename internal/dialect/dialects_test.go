@@ -1,7 +1,7 @@
 package dialect_test
 
 import (
-	"github.com/pressly/goose/v4/internal/dialect"
+	"github.com/BorzdeG/pressly-goose/v4/internal/dialect"
 	"github.com/stretchr/testify/require"
 	"testing"
 )
